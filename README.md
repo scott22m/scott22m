@@ -47,8 +47,7 @@ I’m especially excited to contribute to:
 ## 🌍 Career Goals  
 
 I aim to work on projects at the forefront of engineering innovation—whether it's in robotics, aerospace, or other high-tech industries. I’m eager to collaborate with teams that share my drive to shape the future of technology.  
-
-Feel free to explore my repositories, where I showcase projects that reflect my enthusiasm for **engineering, programming, and machine vision systems**.  
+  
 
 ---
 
